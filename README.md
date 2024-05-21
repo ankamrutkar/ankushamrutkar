@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on [samacharstory.com](https://samacharstory.com/)
 - 1️⃣ This is my Live Projects [taazaanews.com](https://taazaanews.com/)
 - 2️⃣ Live Project [SUNRISESCIENCEINSTITUTE.in](https://sunriseinstitute.in/)
-- 
-
+  
 - 🌱 I’m currently learning **M.Sc CSE(Artificial Intelligence)**
 
 - 👨‍💻 All of my projects are available at [https://anasa17.github.io/portfolio_cv/](https://anasa17.github.io/portfolio_cv/)
