@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasa17&label=Profile%20views&color=0e75b6&style=flat" alt="anasa17" /> </p>
 
 - 🔭 I’m currently working on [samacharstory.com](https://samacharstory.com/)
+-  on samacharstory.com we publish news articles based on daily trends.samacharstory.com is built on WordPress and hosted on the Hostinger platform. On samacharstory.com we post 
+   articles and optimize them using SEO.and also make web stories on various categories.
 - 1️⃣ This is my Live Projects [taazaanews.com](https://taazaanews.com/)
 - 2️⃣ Live Project [SUNRISESCIENCEINSTITUTE.in](https://sunriseinstitute.in/)
   
